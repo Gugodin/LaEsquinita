@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974538888597",
+    "project_id": "laesquinita-4da31",
+    "storage_bucket": "laesquinita-4da31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974538888597:android:adbada68440b7b3f35929c",
+        "android_client_info": {
+          "package_name": "com.example.laesquina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974538888597-cch5kfm4tl19va00i0r0tp6ohdinos10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4YPCpz2Yb7LbkUOsf3mQJvuVN2XfrkrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974538888597-cch5kfm4tl19va00i0r0tp6ohdinos10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
